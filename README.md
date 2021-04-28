@@ -4,7 +4,7 @@
 ## 🏁 Tópicos
 <!--ts-->
 * [Sobre o Projeto](#sobre-o-projeto)
-* [Sistemas Operacionais](#-sistemas-operacionais)
+* [Sistemas Operacionais](#sistemas-operacionais)
 * [Pré Requisitos](#pré-requisitos)
 * [Estrutura de Pastas](#estrutura-de-pastas)
 * [Rodando o Comando](#rodando-o-comando)
@@ -28,21 +28,18 @@
 ## :open_file_folder: Estrutura de Pastas
 <p>Dentro de alguma pasta, crie as pastas abaixo:</p>
 
+```shell
+.
+├─── export
+├─── fazer
 ```
 
-- fazer
-- export
-
-```
-
-## Rodando o Comando
+## :game_die: Rodando o Comando
 
 1. Primeiramente insira as imagens (logomarca, imagem de equipamento, etc...) dentro da pasta **fazer**.
 2. Abra o terminal na raiz da pasta, fora das pastas **fazer** e **export**.
 3. Digite o comando:
 
-```bat
-
+```shell
 makeicons
-
 ```
