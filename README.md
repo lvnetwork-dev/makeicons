@@ -7,7 +7,7 @@
 * [Sistemas Operacionais](#-sistemas-operacionais)
 * [Pré Requisitos](#-pré-requisitos)
 * [Estrutura de Pastas](#-estrutura-de-pastas)
-* [Rodando o Comando](#-rodando-o-comando)
+* [Utilizando a Ferramenta](#-utilizando-a-ferramenta)
 <!--te-->
 
 ## ⁉️ Sobre o Projeto
@@ -23,10 +23,11 @@
 - Windows
 
 ## 🛠️ Pré Requisitos
-Antes de começar, você vai precisar ter instalado em sua máquina as seguinte ferramenta [ImageMagick](https://imagemagick.org).
+Antes de começar, você vai precisar ter instalado em sua máquina a ferramenta [ImageMagick](https://imagemagick.org).
+Para instalar a ferramenta de forma ágil vá ao tópico [Instalar Dependências](instalar-dependências).
 
 ## 📂 Estrutura de Pastas
-<p>Dentro de alguma pasta, crie as pastas abaixo:</p>
+Dentro de alguma pasta, crie as pastas abaixo:
 
 ```shell
 .
@@ -34,7 +35,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguinte 
 ├─── fazer
 ```
 
-## 🎲 Rodando o Comando
+## 🎲 Utilizando a Ferramenta
 
 1. Primeiramente insira as imagens (logomarca, imagem de equipamento, etc...) dentro da pasta **fazer**.
 2. Abra o terminal na raiz da pasta, fora das pastas **fazer** e **export**.
@@ -43,3 +44,34 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguinte 
 ```shell
 makeicons
 ```
+
+Irá aparecer as informações abaixo:
+```shell
+Para funcionar corretamente, e necessario salvar as imagens dentro da pasta "fazer".
+
+----------------------------------------
+ Menu Principal
+----------------------------------------
+  1 - Fazer Icones
+  2 - Organizar Icones em Pastas
+
+----------------------------------------
+  9 - Instalar/Reinstalar Dependencias
+  0 - Sair
+----------------------------------------
+
+Selecione as opcoes na ordem em que aparecem para que funcione corretamente.
+
+Digite uma Opcao:
+```
+
+4. O que temos que fazer é escolher as opções de preferência na ordem que estão.
+5. Primeiro selecione a **opção 1** para fazer os ícones.
+6. Após completar, selecione a **opção 2** para organizar os ícones em pastas.
+
+### Instalar Dependências
+Para instalar as ferramentas necessárias de forma ágil selecione a **opção 9**.
+
+## Autor
+---
+Feito com 💜 por Jordane Chaves.
