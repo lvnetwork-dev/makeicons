@@ -4,10 +4,10 @@
 ## 🏁 Tópicos
 <!--ts-->
 * [Sobre o Projeto](#sobre-o-projeto)
-* [Sistemas Operacionais](#sistemas-operacionais)
-* [Pré Requisitos](#pré-requisitos)
-* [Estrutura de Pastas](#estrutura-de-pastas)
-* [Rodando o Comando](#rodando-o-comando)
+* [Sistemas Operacionais](#-sistemas-operacionais)
+* [Pré Requisitos](#-pré-requisitos)
+* [Estrutura de Pastas](#-estrutura-de-pastas)
+* [Rodando o Comando](#-rodando-o-comando)
 <!--te-->
 
 ## Sobre o Projeto
