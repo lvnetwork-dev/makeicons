@@ -35,6 +35,21 @@ Dentro de alguma pasta, crie as pastas abaixo:
 ├─── fazer
 ```
 
+Clone o projeto para dentro da mesma pasta:
+```shell
+git clone https://github.com/jordane-chaves/makeicons.git
+```
+
+A estrutura de pastas agora vai ficar dessa forma:
+```shell
+.
+├─── assets
+├─── export
+├─── fazer
+├─── makeicons.bat
+├─── README.md
+```
+
 ## 🎲 Utilizando a Ferramenta
 
 1. Primeiramente insira as imagens (logomarca, imagem de equipamento, etc...) dentro da pasta **fazer**.
