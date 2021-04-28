@@ -73,5 +73,4 @@ Digite uma Opcao:
 Para instalar as ferramentas necessárias de forma ágil selecione a **opção 9**.
 
 ## Autor
----
 Feito com 💜 por Jordane Chaves.
