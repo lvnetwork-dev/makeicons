@@ -23,7 +23,7 @@
 - Windows
 
 ## 🛠️ Pré Requisitos
-<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguinte ferramenta [ImageMagick](https://imagemagick.org).</p>
+Antes de começar, você vai precisar ter instalado em sua máquina as seguinte ferramenta [ImageMagick](https://imagemagick.org).
 
 ## 📂 Estrutura de Pastas
 <p>Dentro de alguma pasta, crie as pastas abaixo:</p>
