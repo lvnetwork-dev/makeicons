@@ -1,5 +1,5 @@
 <h1  align="center">🤖 MakeIcons</h1>
-<h2  align="center">💻 Ferramenta utilizada para gerar ícones de maneira rápida e fácil. 💻</h2>
+<h3  align="center">💻 Ferramenta utilizada para gerar ícones de maneira rápida e fácil. 💻</h3>
 
 <p align="center">
 	<img src="https://img.shields.io/static/v1?label=Versão&message=1.0.0&color=brightgreen&style=for-the-badge" />
@@ -11,7 +11,7 @@
 * [Sobre o Projeto](#-sobre-o-projeto)
 * [Sistema Operacional](#-sistema-operacional)
 * [Preparando o Ambiente](#-preparando-o-ambiente)
-  * [Instalar Dependência](#-instalar-dependencia)
+  * [Instalar Dependência](#-instalar-dependência)
 * [Utilizando a Ferramenta](#-utilizando-a-ferramenta)
 <!--te-->
 
