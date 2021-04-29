@@ -24,7 +24,7 @@
 
 ## 🛠️ Pré Requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina a ferramenta [ImageMagick](https://imagemagick.org).
-Para instalar a ferramenta de forma ágil vá ao tópico [Instalar Dependências](instalar-dependências).
+Para instalar a ferramenta de forma ágil vá ao tópico [Instalar Dependências](#instalar-dependências).
 
 ## 📂 Estrutura de Pastas
 Dentro de alguma pasta, crie as pastas abaixo:
