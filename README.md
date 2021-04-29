@@ -11,7 +11,7 @@
 * [Sobre o Projeto](#-sobre-o-projeto)
 * [Sistema Operacional](#-sistema-operacional)
 * [Preparando o Ambiente](#-preparando-o-ambiente)
-  * [Instalar Dependência](#-instalar-dependência)
+  * [Instalar Dependência](#-instalar-dependencia)
 * [Utilizando a Ferramenta](#-utilizando-a-ferramenta)
 <!--te-->
 
